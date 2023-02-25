@@ -1,0 +1,43 @@
+Spring Framework =>
+
+    Spring is the framework of Java Programming language, use to create some of the enterprise level application.Spring is also termed as the framework of frameworks.
+
+For more information about the spring, you can visit here
+
+
+https://www.javatpoint.com/spring-tutorial
+
+
+For the documentation of spring framework, you can visit in here
+
+
+https://spring.io/
+
+
+There are many reasons to use spring framework, some of the very important are =>
+
+* It has " Dependency Injection "
+* It has " Inversion of Control "
+* It has " IoC container "
+
+
+Okay let's talk about them.
+
+
+# Dependency Injection =>
+
+
+Dependency means thet, when one class is dependent on the another class. So we need to have the object of that class to move further and typically me manually create the object of the class. Now here the concept of dependency injection occurs, it says that the spring framework will injection or return the object of that depending class by itself, with the help of configuration.
+
+
+# Inversion of Control =>
+
+When we give the control of creating and injecting the object of a class to the spring framework, then it is termed as Inversion of Control.
+
+
+
+
+
+
+
+
